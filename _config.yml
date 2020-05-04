@@ -1,5 +1,5 @@
 #page title
-page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Nappy Pin – Breastfeeding Timer and Log                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 928863156                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -19,10 +19,10 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : Alexey Plekhanov                                
+your_name                                 : Alex Plekhanov                                
 your_link                                 : https://aplekhanov.com                     
-your_city                                 : Sengiley                                
-email_address                             : emil.baehr@gmail.com
+your_city                                 :                                 
+email_address                             : mail@aplekhanov.com
 facebook_username                         :                                           
 instagram_username                        : 
 twitter_username                          : alexeyplekhanov
