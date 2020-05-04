@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 1 2019
+May 1 2020
 
 # Privacy Policy
 Your privacy is important to us. It is our policy to respect your privacy regarding any information we may collect from you through our app, Nappy Pin.
