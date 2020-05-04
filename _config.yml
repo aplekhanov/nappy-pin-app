@@ -34,17 +34,13 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+  - title                                 : Focus on important
+    description                           : Clean and simple to use interface designed for one-hand operation. Just tap a button to get started and focus on baby.
+    fontawesome_icon_name                 : eye
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
-
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Complete feeding history
+    description                           : Nappy Pin keeps all your baby's feed times in clear journal.
+    fontawesome_icon_name                 : list
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
