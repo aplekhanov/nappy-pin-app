@@ -16,3 +16,5 @@ Feeding history screen shows how long you have fed your baby, including time bet
 Personalize the app to your baby by adding a picture, baby’s name, and date of birth.
 
 That's it. No ads, no registrations, and no login screens. All your data is local and private. Just you, your baby, and a nice little app.
+
+[<img src="https://aplekhanov.github.io/prepod-app/assets/appstore.png" width=220 height=75 alt="Download on the App Store">](https://apps.apple.com/us/app/nappy-pin-breastfeeding-timer/id928863156?uo=4)
